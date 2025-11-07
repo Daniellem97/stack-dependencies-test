@@ -16,3 +16,7 @@ output "dummy2" {
   value = "dummy1"
   sensitive = true
 }
+output "dummy3" {
+  value = "dummy1"
+  sensitive = true
+}
